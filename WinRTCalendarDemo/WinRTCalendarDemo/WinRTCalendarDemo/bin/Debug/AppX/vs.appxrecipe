@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISPL_137_1</Machine>
+    <WindowsUser>aruna.bhayani</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>5BEAD0ABE0BB4208E15BC2AB4F5B01EBD07BC8ADC82F06A8AB0AB32906E0E7F8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c30f4c6d-a590-4aec-a7ca-a1f781a0fb58_1.0.0.0_neutral__qypq823x3rqgm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c30f4c6d-a590-4aec-a7ca-a1f781a0fb58_qypq823x3rqgm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c30f4c6d-a590-4aec-a7ca-a1f781a0fb58</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=chintan.prajapati</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-17T11:11:48.777</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\WinRTCalendarDemo.exe">
+      <PackagePath>WinRTCalendarDemo.exe</PackagePath>
+      <Modified>2012-10-17T11:11:47.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\WinRTCalendarDemo.pdb">
+      <PackagePath>WinRTCalendarDemo.pdb</PackagePath>
+      <Modified>2012-10-17T11:11:47.693</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\WinRTCalendarControl.pdb">
+      <PackagePath>WinRTCalendarControl.pdb</PackagePath>
+      <Modified>2012-10-17T11:11:44.865</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\WinRTCalendarControl.dll">
+      <PackagePath>WinRTCalendarControl.dll</PackagePath>
+      <Modified>2012-10-17T11:11:44.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T09:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T09:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T09:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T09:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\AddCalendarEvent.xaml">
+      <PackagePath>AddCalendarEvent.xaml</PackagePath>
+      <Modified>2012-10-16T10:50:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-10-16T10:58:10.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-16T12:43:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-16T10:29:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>WinRTCalendarControl\Themes\Generic.xaml</PackagePath>
+      <Modified>2012-10-16T11:23:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-17T11:11:48.501</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

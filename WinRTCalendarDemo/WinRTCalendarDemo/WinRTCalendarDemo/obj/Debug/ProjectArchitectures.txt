@@ -1,0 +1,2 @@
+C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\WinRTCalendarControl.csproj;neutral
+C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo.csproj;neutral

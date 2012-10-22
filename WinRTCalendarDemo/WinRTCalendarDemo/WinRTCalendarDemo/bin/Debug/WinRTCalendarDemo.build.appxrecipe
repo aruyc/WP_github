@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ISPL_137_1</Machine>
+    <WindowsUser>aruna.bhayani</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\WinRTCalendarDemo.exe">
+      <PackagePath>WinRTCalendarDemo.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\WinRTCalendarDemo.pdb">
+      <PackagePath>WinRTCalendarDemo.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\WinRTCalendarControl.pdb">
+      <PackagePath>WinRTCalendarControl.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\WinRTCalendarControl.dll">
+      <PackagePath>WinRTCalendarControl.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\AddCalendarEvent.xaml">
+      <PackagePath>AddCalendarEvent.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarControl\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>WinRTCalendarControl\Themes\Generic.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\aruna.bhayani\Documents\WinRTCalendarDemo\WinRTCalendarDemo\WinRTCalendarDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
