@@ -61,6 +61,9 @@ namespace WinRTCalendarDemo
         private void Add_Button_Click(object sender, RoutedEventArgs e)
         {
             m.addEvent();
+			//hello
+			//edited by me
+            //edited from my a/c
         }
                         
     }
