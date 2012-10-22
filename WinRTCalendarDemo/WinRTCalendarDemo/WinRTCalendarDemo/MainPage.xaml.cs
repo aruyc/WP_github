@@ -17,7 +17,7 @@ using Windows.UI.Xaml.Navigation;
 
 namespace WinRTCalendarDemo
 {
-	// *********************************  //
+	// ########################################### //
     public sealed partial class MainPage : Page
     {
         MainViewModel m;
